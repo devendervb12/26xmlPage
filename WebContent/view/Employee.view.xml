@@ -1,0 +1,9 @@
+<core:View   xmlns:core="sap.ui.core.mvc" xmlns:m="sap.m">
+  <m:Page title="Employee Registration Form">
+    <m:content>
+       <m:Button text="Register"/> 
+    </m:content>
+     
+  </m:Page>
+
+</core:View>
